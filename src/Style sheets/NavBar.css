@@ -1,0 +1,9 @@
+.navBarBtn:hover {
+  background-color: green;
+  color: white;
+}
+
+.navBarBtnError:hover {
+  background-color: red;
+  color: white;
+}
