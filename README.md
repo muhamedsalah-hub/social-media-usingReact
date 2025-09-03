@@ -1,12 +1,43 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mini Social media Website
 
-Currently, two official plugins are available:
+A simple social media web application that mimics core features of Facebook. Users can create accounts, log in, share posts, comment on others’ posts, and interact with profiles using ReactJs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## Expanding the ESLint configuration
+Authentication
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+User registration & login
+
+Secure authentication handling
+
+Profiles
+
+View user profiles
+
+Navigate between different users’ pages
+
+Posts
+
+Create a new post
+
+Update existing posts
+
+Delete posts
+
+View a feed of posts
+
+Comments
+
+Add comments on posts
+
+Display all comments for a post
+
+Routing
+
+Smooth navigation between login, register, profiles, and posts pages
+
+🛠️ Tech Stack
+
+Frontend: ReactJS
